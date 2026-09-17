@@ -95,9 +95,10 @@ if user_query:
 
             # Initialize Groq LLM
             llm = ChatGroq(
-                model="llama3-70b-8192",
+                model="openai/gpt-oss-120b",
                 api_key=groq_api_key,
-                temperature=0.0
+                temperature=0.0,
+                max_tokens=None
             )
 
             def format_docs(docs):
