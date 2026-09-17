@@ -1,0 +1,142 @@
+===================================================================
+TECHNOVA GLOBAL CUSTOMER SUPPORT & KNOWLEDGE BASE POLICY MANUAL
+Last Updated: September 2026 | Version 4.2
+===================================================================
+
+SECTION 1: GENERAL COMPANY OVERVIEW & CONTACT INFORMATION
+-------------------------------------------------------------------
+1.1 Overview: TechNova Solutions is a direct-to-consumer technology brand specializing in high-performance laptops, smart wearables, audio hardware, and smart home eco-devices.
+1.2 Operating Hours: Customer support operations run Monday through Friday from 8:00 AM to 8:00 PM EST, and Saturday from 9:00 AM to 5:00 PM EST. Support is closed on Sundays and national holidays.
+1.3 Primary Contact Emails:
+- General Queries: support@technova.com
+- Billing & Payments: billing@technova.com
+- Enterprise Accounts: enterprise@technova.com
+- Press & Public Relations: media@technova.com
+1.4 Toll-Free Support Line: +1 (800) 555-0199 (Available during operating hours).
+1.5 Live Chat: Available on the main website (www.technova.com) via the widget on the bottom right corner.
+
+SECTION 2: ORDER PROCESSING & FULFILLMENT
+-------------------------------------------------------------------
+2.1 Order Confirmation: Upon completing a purchase, customers receive an automated confirmation email within 15 minutes containing an 8-digit Order ID starting with "TN-".
+2.2 Order Modification: Orders can only be modified (change of address, quantity, or item variant) within 60 minutes of placement. After 60 minutes, orders enter processing and cannot be modified.
+2.3 Order Cancellation: Orders can be canceled via the "My Orders" portal on our website within 2 hours of placement. If the cancellation button is grayed out, the shipment has already been queued.
+2.4 Backorders & Pre-orders: Pre-ordered items are charged at the time of purchase. If a release date changes, notification emails are dispatched within 48 hours.
+
+SECTION 3: SHIPPING & DELIVERY POLICIES
+-------------------------------------------------------------------
+3.1 Domestic Shipping Rates (United States & Canada):
+- Standard Shipping (3-5 business days): $4.99 flat rate. Free for orders over $50.00.
+- Express Shipping (2 business days): $14.99 flat rate.
+- Next-Day Air Shipping (1 business day): $29.99 flat rate.
+3.2 International Shipping:
+- International Economy (7-14 business days): $19.99 flat rate.
+- International Priority (3-5 business days): $39.99 flat rate.
+- Customs Duties & Taxes: International buyers are responsible for import duties and VAT levied by local customs authority.
+3.3 Courier Partners: Primary domestic shipments are handled by FedEx and UPS. International shipments are fulfilled via DHL Express.
+3.4 Tracking Shipments: Tracking links are sent via email within 24 hours of package dispatch.
+3.5 Lost or Stolen Packages: If a package is marked "Delivered" but is missing, customers must wait 24 hours before reporting. Reports must be filed within 10 days of the marked delivery date for insurance claims.
+
+SECTION 4: RETURNS, REFUNDS & REPLACEMENTS
+-------------------------------------------------------------------
+4.1 Standard Return Window: Customers may return eligible products within 30 days from the date of package delivery for a full refund or exchange.
+4.2 Return Eligibility Criteria:
+- Item must be in brand new, unblemished physical condition.
+- Item must be returned in original manufacturer packaging with all accessories, cables, and manuals included.
+- Proof of purchase (Order ID or receipt) is required.
+4.3 Ineligible Items for Return:
+- Opened software licenses or downloadable digital content.
+- Custom-configured or personalized merchandise.
+- Products sold during clearance or final-sale promotional events.
+4.4 Return Shipping Costs: Return shipping is free for defective items or company fulfillment errors. For change-of-mind returns, a flat $6.00 shipping fee is deducted from the refund total.
+4.5 Refund Processing Time: Once received at our warehouse, returns are inspected within 3 business days. Approved refunds take 5 to 7 business days to post to the original payment method.
+
+SECTION 5: HARDWARE WARRANTY COVERAGE
+-------------------------------------------------------------------
+5.1 Standard Limited Warranty: All hardware items carry a standard 1-Year Limited Manufacturer Warranty covering defects in materials and workmanship.
+5.2 Extended Warranty (TechNovaCare+):
+- Purchasing TechNovaCare+ extends coverage to 3 total years from date of purchase.
+- Adds coverage for accidental drop damages and liquid spills (up to 2 claims per year with a $50 deductible per incident).
+5.3 Warranty Exclusions: Standard warranty does not cover damage from intentional abuse, unauthorized disassembly, water damage beyond rated IP rating, or third-party charger usage.
+5.4 Warranty Claim Process: To initiate a warranty claim, submit proof of purchase and a short diagnostic video showing the issue to warranty@technova.com.
+
+SECTION 6: PRODUCT SPECIFIC TROUBLESHOOTING
+-------------------------------------------------------------------
+6.1 Smart Audio Headphones (NovaSound Pro & NovaSound Air):
+- Issue: Headphones won't connect via Bluetooth.
+  Solution: Hold the power button for 10 seconds until the LED flashes blue and red to reset Bluetooth pairing memory.
+- Issue: Low volume on left or right earbud.
+  Solution: Clean the speaker mesh gently with a soft dry cotton swab. Ensure balance sliders are centered in device audio settings.
+6.2 Laptops (NovaBook Series):
+- Issue: Laptop will not power on.
+  Solution: Perform a hard reset by holding the power button down for 15 seconds. Connect the original USB-C charger and let sit for 30 minutes before powering on again.
+- Issue: Trackpad non-responsive.
+  Solution: Press Function key + F9 (Fn+F9) to toggle the trackpad lock on or off.
+6.3 Smart Watches (NovaFit Ultra):
+- Issue: Heart rate sensor not tracking accurately.
+  Solution: Tighten wrist strap to sit 1 finger-width above wrist bone. Clean the bottom optical sensor array with micro-fiber cloth.
+- Issue: Watch battery draining too fast.
+  Solution: Disable "Always-On Display" in Settings > Display, and lower background pulse checking frequency to 10 minutes.
+
+SECTION 7: SOFTWARE & FIRMWARE UPDATES
+-------------------------------------------------------------------
+7.1 Companion Mobile App: Download the "TechNova Connect" app on iOS App Store or Google Play Store to manage all smart devices.
+7.2 Updating Firmware:
+- Connect device to mobile app via Bluetooth.
+- Navigate to Device Settings > Firmware Update.
+- Ensure device battery is above 50% before initiating the update process. Do not disconnect during flashing.
+7.3 System Requirements: TechNova Connect app requires iOS 15.0 or later, or Android 10.0 or later.
+
+SECTION 8: PAYMENT METHODS & BILLING
+-------------------------------------------------------------------
+8.1 Accepted Payment Options:
+- Major Credit & Debit Cards: Visa, MasterCard, American Express, Discover.
+- Digital Wallets: Apple Pay, Google Pay, PayPal.
+- Buy Now Pay Later (BNPL): Klarna and Affirm (available at checkout for eligible totals over $100).
+8.2 Sales Tax Policy: Applicable state and local sales taxes are automatically computed at checkout based on shipping destination address.
+8.3 Chargebacks & Payment Disputes: Customers are strongly advised to contact support before filing a bank dispute to expedite resolutions amicably.
+
+SECTION 9: ACCOUNT MANAGEMENT & PRIVACY
+-------------------------------------------------------------------
+9.1 Creating an Account: Click the user icon on technova.com and select "Register". An email verification link will be sent automatically.
+9.2 Password Reset: Click "Forgot Password" on the login screen. Reset links expire within 60 minutes for security purposes.
+9.3 Account Deletion: Users can request complete erasure of their personal profile data by sending an email to privacy@technova.com with subject line "GDPR Data Erasure Request".
+9.4 Two-Factor Authentication (2FA): Enable 2FA in Account Settings > Security using any TOTP authenticator app (e.g., Google Authenticator, 1Password).
+
+SECTION 10: SUSTAINABILITY & RECYCLING PROGRAM
+-------------------------------------------------------------------
+10.1 E-Waste Recycling Initiative: Customers can mail in any old TechNova hardware for free eco-friendly recycling.
+10.2 Trade-in Credit: Selected laptops and smartwatches qualify for store trade-in credit toward new purchases. Check current valuation at technova.com/tradein.
+10.3 Sustainable Packaging: All packaging materials used for product shipments are 100% recyclable paperboard printed with soy-based inks.
+
+SECTION 11: PROMOTIONS & DISCOUNT CODES
+-------------------------------------------------------------------
+11.1 Promo Code Usage: Promo codes must be entered in the "Discount Code" field at checkout prior to finalizing payment. Only one promo code can be applied per order.
+11.2 Student & Military Discount: Verified students, teachers, and active military personnel receive a 10% sitewide discount via ID.me verification at checkout.
+11.3 Gift Cards: Digital gift cards are delivered via email immediately after purchase and never expire.
+
+SECTION 12: FREQUENTLY ASKED QUESTIONS (FAQ SUMMARY)
+-------------------------------------------------------------------
+Q: What should I do if I received the wrong item?
+A: Contact support@technova.com within 48 hours of package arrival with photo evidence. We will email a prepaid return shipping label and ship the correct item immediately.
+
+Q: Can I use my laptop while charging?
+A: Yes, all NovaBook laptops feature smart battery bypass circuitry preventing overcharging during active use.
+
+Q: Are TechNova earbuds waterproof?
+A: NovaSound Pro earbuds carry an IPX7 rating (submersible up to 1 meter for 30 minutes). NovaSound Air carries an IPX4 splash-proof rating.
+
+Q: How do I change the language in the TechNova Connect App?
+A: Go to Settings > Profile > Language Preference, select your preferred language, and restart the app.
+
+Q: Does TechNova ship to PO Boxes?
+A: Standard shipping via US Postal Service can deliver to PO Boxes. Express and Next-Day Air options require physical street addresses.
+
+Q: What happens if my product arrives physically damaged?
+A: Please keep all outer shipping cartons and internal packing materials intact. Photograph the packaging and item damage, then contact support within 3 business days.
+
+Q: Do you offer bulk discounts for corporate purchases?
+A: Yes. For orders exceeding 20 units, contact our corporate sales team directly at enterprise@technova.com.
+
+===================================================================
+END OF KNOWLEDGE BASE MANUAL
+===================================================================
