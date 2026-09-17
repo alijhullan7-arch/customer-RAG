@@ -96,7 +96,7 @@ if user_query:
             # Initialize Groq LLM
             llm = ChatGroq(
                 model="llama3-70b-8192",
-                groq_api_key=groq_api_key,
+                api_key=groq_api_key
                 temperature=0.0
             )
 
